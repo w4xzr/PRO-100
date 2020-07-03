@@ -1,0 +1,12 @@
+06-26 18:29:06 place_footprints.action_place_footprints 414:Plugin executed on: 'linux2'
+06-26 18:29:06 place_footprints.action_place_footprints 415:Plugin executed with python version: '2.7.17 (default, Jan 24 2020, 15:33:58) [GCC]'
+06-26 18:29:06 place_footprints.action_place_footprints 416:KiCad build version: Unknown
+06-26 18:29:06 place_footprints.action_place_footprints 417:Place footprints plugin version: 49 started
+06-26 18:29:10 place_footprints.place_footprints 210:getting project hierarchy from schematics
+06-26 18:29:10 place_footprints.place_footprints 225:getting a list of all footprints on board
+06-26 18:29:10 place_footprints.place_footprints 251:construcing a list of sheets suitable for replication on level:'Sheet5F5A513D', file:u'RIGHT.sch'
+06-26 18:29:10 place_footprints.place_footprints 284:suitable sheets are:[]
+06-26 18:29:15 place_footprints.action_place_footprints 654:Modules to place: ['J65']
+06-26 18:29:15 place_footprints.place_footprints 377:Starting placing with linear layout
+06-26 18:29:15 place_footprints.action_place_footprints 696:Placing complete
+06-26 18:29:15 place_footprints.action_place_footprints 697:Sorted_modules: ['J65']
